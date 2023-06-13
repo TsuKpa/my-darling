@@ -47,7 +47,7 @@ var words = ['Chào em!', 'Sau khoảng thời gian gần tháng nhắn tin,', '
     forwards = true,
     skip_count = 0,
     skip_delay = 15,
-    speed = 80;
+    speed = 120;
 var wordflick = function () {
     const x = setInterval(function () {
         if (forwards) {
