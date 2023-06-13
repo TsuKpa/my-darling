@@ -39,7 +39,7 @@ function createHearts(container) {
 
 
 // title animation
-var words = ['Chào em!', 'Sau khoảng thời gian gần tháng nhắn tin,', 'Anh nghĩ là chúng mình nên gặp nhau,', 'Có nhiều cái nhắn tin không thể nói ra hết được', 'Nếu em cũng thấy thích anh thì....', 'Thứ 7 tuần này mình gặp nhau như đã nói nhé\\?'],
+var words = ['Chào em!', 'Sau khoảng thời gian gần tháng nhắn tin,', 'Anh nghĩ là chúng mình nên gặp nhau,', 'Có nhiều cái nhắn tin không thể nói ra hết được', 'Nếu em cũng thấy thích anh thì....', 'Thứ 7 tuần này mình gặp nhau như đã nói nhé &#63;'],
     part,
     i = 0,
     offset = 0,
