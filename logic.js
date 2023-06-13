@@ -39,7 +39,7 @@ function createHearts(container) {
 
 
 // title animation
-var words = ['Chào em!', 'Sau khoảng thời gian gần tháng nhắn tin,', 'Anh nghĩ là chúng mình nên gặp nhau,', 'Có nhiều cái nhắn tin không thể nói ra hết được', 'Nếu em cũng thấy thích anh thì....', 'Thứ 7 tuần này mình gặp nhau như đã nói nhé &#63;'],
+var words = ['Chào em!', 'Sau khoảng thời gian gần tháng nhắn tin,', 'Anh nghĩ là chúng mình nên gặp nhau,', 'Có nhiều cái nhắn tin không thể nói ra hết được', 'Nếu em cũng thấy thích anh thì....', 'Thứ 7 tuần này mình gặp nhau như đã nói nhé ❔'],
     part,
     i = 0,
     offset = 0,
@@ -47,7 +47,7 @@ var words = ['Chào em!', 'Sau khoảng thời gian gần tháng nhắn tin,', '
     forwards = true,
     skip_count = 0,
     skip_delay = 15,
-    speed = 120;
+    speed = 90;
 var wordflick = function () {
     const x = setInterval(function () {
         if (forwards) {
